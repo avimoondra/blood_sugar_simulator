@@ -10,6 +10,13 @@
 /test/version_tmp/
 /tmp/
 
+# rubymine
+.idea/blood_sugar_simulator.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+
 # Used by dotenv library to load environment variables.
 # .env
 
